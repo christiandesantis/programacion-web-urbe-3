@@ -1,5 +1,5 @@
 <template>
-  <h4 class="text-center">Login</h4>
+  <h4 class="text-center">Iniciar Sesión</h4>
   <q-page class="row justify-evenly">
         <q-form
           @submit.prevent="onSubmit"

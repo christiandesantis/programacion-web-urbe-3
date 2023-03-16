@@ -1,5 +1,5 @@
 <template>
-  <h4 class="text-center">Register</h4>
+  <h4 class="text-center">Registrarse</h4>
   <q-page class="row justify-evenly">
         <q-form
           @submit.prevent="onSubmit"
